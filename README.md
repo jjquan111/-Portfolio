@@ -4,7 +4,7 @@ Welcome to the repository for my personal portfolio website! This website showca
 
 ## 🚀 Live Website
 The portfolio is deployed on **GitHub Pages** and can be accessed here:
-[https://your-username.github.io/portfolio](https://your-username.github.io/portfolio)
+[https://your-username.github.io/portfolio](https://jjquan111.github.io/-Portfolio/)
 
 ---
 
